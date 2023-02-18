@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300;400&family=Questrial&display=swap');
+
+:root{
+  --black: #000000;
+  --red: #CF0A0A;
+  --orange: #DC5F00;
+  --peachy-white: #EEEEEE;
+  --white: #FFFFFF;
+}
+
+.oxygen {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.Question {
+  font-family: 'Questrial', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Oxygen, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
